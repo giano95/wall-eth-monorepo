@@ -1,4 +1,10 @@
-![screenshot_1](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_1.png) | ![screenshot_2](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_2.png) | ![screenshot_3](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_3.png) | ![screenshot_4](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_4.png) | ![screenshot_5](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_5.png)
+<p align="center">
+  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_1.png">
+  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_2.png">
+  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_3.png">
+  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_4.png">
+  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_5.png">
+</p>
 
 # Wall-ETH
 
