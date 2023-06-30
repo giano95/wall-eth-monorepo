@@ -1,10 +1,13 @@
-<p align="center">
-  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_1.png">
-  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_2.png">
-  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_3.png">
-  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_4.png">
-  <img style="display: block;" src="https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_5.png">
-</p>
+![screenshot_1_light](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_1_light.png#gh-light-mode-only)
+![screenshot_2_light](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_2_light.png#gh-light-mode-only)
+![screenshot_3_light](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_3_light.png#gh-light-mode-only)
+![screenshot_4_light](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_4_light.png#gh-light-mode-only)
+![screenshot_5_light](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_5_light.png#gh-light-mode-only)
+![screenshot_1_dark](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_1.png#gh-dark-mode-only)
+![screenshot_2_dark](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_2.png#gh-dark-mode-only)
+![screenshot_3_dark](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_3.png#gh-dark-mode-only)
+![screenshot_4_dark](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_4.png#gh-dark-mode-only)
+![screenshot_5_dark](https://github.com/giano95/wall-eth-monorepo/raw/main/images/screenshot_5.png#gh-dark-mode-only)
 
 # Wall-ETH
 
